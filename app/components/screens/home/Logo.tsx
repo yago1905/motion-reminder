@@ -5,7 +5,7 @@ const Logo: FC = () => {
 	return (
 		<View className='items-center'>
 			<Text className='text-3xl text-primary font-semibold'>
-				Motion reminder
+				Motion Reminder
 			</Text>
 		</View>
 	)

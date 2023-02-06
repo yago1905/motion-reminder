@@ -30,7 +30,9 @@
     "react-navigation": "^4.4.4",
     "tailwind": "^4.0.0",
     "@expo/webpack-config": "^0.17.2",
-    "expo-device": "~5.0.0"
+    "expo-device": "~5.0.0",
+    "expo-background-fetch": "~11.0.1",
+    "expo-task-manager": "~11.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
